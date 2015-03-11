@@ -1,0 +1,5 @@
+Developed by Mats Mikkel Rummelhoff ~ @matsmikkel ~ http://mmikkel.no
+
+Standards: HTML5, CSS3
+Components: jQuery, Modernizr, Foundation 5, Timber, FastClick, iScroll
+Software: Sublime Text, Git, Grunt

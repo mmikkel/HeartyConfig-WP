@@ -1,0 +1,32 @@
+{
+    "require": {
+        "composer/installers": "~1",
+        "jarednova/timber": "dev-master"
+    },
+    "repositories": [
+        {
+            "type" : "package",
+            "package" : {
+                "name" : "jarednova/php-router",
+                "version" : "1.0.1",
+                "dist" : {
+                    "url" : "https://github.com/jarednova/PHP-Router/archive/fix_psr_0.zip",
+                    "type" : "zip"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "PHPRouter": "src/"
+                    }
+                }
+            }
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+          "vendor/timber": ["jarednova/timber"]
+        }
+      },
+      "autoload": {
+        "classmap": [ "vendor/timber" ]
+    }
+}

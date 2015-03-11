@@ -1,0 +1,15 @@
+{
+  "name": "heartystarter",
+  "dependencies": {
+    "foundation": "5.4.7",
+    "gsap" : "1.x.x",
+    "iscroll" : "5.1.3",
+    "underscore" : "1.x.x",
+    "verge" : "1.x.x",
+    "imagesloaded" : "3.x.x",
+    "purl" : "2.x.x",
+    "js-signals" : "1.x.x",
+    "the-modal" : "0.x.x",
+    "history.js" : "1.x.x"
+  }
+}
