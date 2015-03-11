@@ -33,7 +33,7 @@ $heartyEnvs = array(
 * Do ye want a default theme?
 *
 */
-$heartyDefaultTheme = 'seeker';
+$heartyDefaultTheme = 'hearty';
 
 /*
  * What be yer core catalog's name? Yep, this be yer Wordpress folder
